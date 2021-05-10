@@ -90,7 +90,7 @@ using Acari.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\Shared\NavMenu.razor"
+#line 33 "C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 
