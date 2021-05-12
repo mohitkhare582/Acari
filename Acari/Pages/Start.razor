@@ -1,6 +1,7 @@
 ﻿@page "/start"
 @using Microsoft.Extensions.Logging
 @using Models
+@using Services
 
 @inject ILogger<ProfileModel> Logger
 
@@ -14,10 +15,13 @@
 </EditForm>
 
 @code {
-    private ProfileModel profile = new ProfileModel();
+private ProfileModel profile = new ProfileModel();
 
-    private void HandleValidSubmit()
-    {
-        Logger.LogInformation("HandleValidSubmit called");
-    }
+
+
+private void HandleValidSubmit()
+{
+    Logger.LogInformation($"HandleValidSubmit called From Iron Python");
+}
+
 }

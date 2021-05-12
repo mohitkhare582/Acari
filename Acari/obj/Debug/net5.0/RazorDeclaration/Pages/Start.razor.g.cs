@@ -96,6 +96,13 @@ using Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 4 "C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\Pages\Start.razor"
+using Services;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/start")]
     public partial class Start : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -105,14 +112,17 @@ using Models;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 16 "C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\Pages\Start.razor"
+#line 17 "C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\Pages\Start.razor"
        
-    private ProfileModel profile = new ProfileModel();
+private ProfileModel profile = new ProfileModel();
 
-    private void HandleValidSubmit()
-    {
-        Logger.LogInformation("HandleValidSubmit called");
-    }
+
+
+private void HandleValidSubmit()
+{
+    Logger.LogInformation($"HandleValidSubmit called From Iron Python");
+}
+
 
 #line default
 #line hidden

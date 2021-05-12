@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+NqW1soGMQKgEUu2O9FbdVI00oJ4QBH6pgx705pqaqH+q/amoZk81Ys3UlQRsZnkRD49W4WOzgW8OybVdEVyyA==",
+  "dgSpecHash": "9X2uIrNvZ9xLqS9h4+54OQPAaYSY+xUt4jsDwoh7JBElWaoCoh1pH+zoAHp68IdIhDyDP/eXijYInHWFsN5w0g==",
   "success": true,
   "projectFilePath": "C:\\Users\\mohit\\source\\repos\\mohitkhare582\\Acari\\Acari.Test\\Acari.Test.csproj",
   "expectedPackageFiles": [
@@ -75,7 +75,7 @@
     "C:\\Users\\mohit\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\mohit\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\mohit\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
-    "C:\\Users\\mohit\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\mohit\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\mohit\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
     "C:\\Users\\mohit\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
     "C:\\Users\\mohit\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",

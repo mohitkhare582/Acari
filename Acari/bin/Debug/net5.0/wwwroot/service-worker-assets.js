@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-GfaebY2wBcdYTBB3OtWD3+3sQbIjqzZ45VF8QsXVpAU=",
+      "hash": "sha256-tR03hLokcrZTt7MYqgMYeXuR3TmsPGvyipQTFAjU1+k=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -233,7 +233,7 @@
       "url": "_framework\/Microsoft.Win32.SystemEvents.dll"
     },
     {
-      "hash": "sha256-cs8pHUurDt0IqbB8YXPh560au3q3J\/1wRL9jBddRVmE=",
+      "hash": "sha256-gkIipvi93hhq6PE+WvoKU82xCfBcfl2PTHNjD3enxt4=",
       "url": "_framework\/Newtonsoft.Json.dll"
     },
     {
@@ -1189,11 +1189,11 @@
       "url": "_framework\/dotnet.5.0.5.js"
     },
     {
-      "hash": "sha256-ehJwBAWCT3ipAJ27VJi4sFIqWprc91he5O5j9GI8+2U=",
+      "hash": "sha256-nuN6ARmBlxdK5jXk3LeyXuDiP4ol8qpog4xHSfP+0Mk=",
       "url": "_framework\/Acari.dll"
     },
     {
-      "hash": "sha256-y\/LMpB+HjIqWZQdFB4B4Ez+AFF189pRh+bDl0Icd4L4=",
+      "hash": "sha256-QV92fN6B2nfzQip7tLKAhkEU0ulqbLOZSUj5DhMmINk=",
       "url": "_framework\/Acari.pdb"
     },
     {
@@ -1429,7 +1429,7 @@
       "url": "_framework\/Microsoft.Win32.SystemEvents.dll.gz"
     },
     {
-      "hash": "sha256-dnh+NOlVLVPDt\/7o1z+6yeufEse+5\/QWBcLdc\/qmjCo=",
+      "hash": "sha256-xMXE7clQOzRFPY0UZ8Ccf2yxJi9Mni4mbglTHf4Ajhc=",
       "url": "_framework\/Newtonsoft.Json.dll.gz"
     },
     {
@@ -2461,5 +2461,5 @@
       "url": "Acari.bundle.scp.css"
     }
   ],
-  "version": "ZqvNPIuW"
+  "version": "I4\/7Pz28"
 };

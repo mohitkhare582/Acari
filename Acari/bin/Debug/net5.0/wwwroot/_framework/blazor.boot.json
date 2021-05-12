@@ -64,7 +64,7 @@
       "Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll": "sha256-NtODhA3RBWNSdiRXw4DUiqo1NXWVVMC7pzDC+6wtrQM=",
       "Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll": "sha256-MyZSaRW9WHDMIRrTxrYzfrXSLOrER7naiASfTpaHp04=",
       "Microsoft.Win32.SystemEvents.dll": "sha256-56MWX7GCuiW+O0EPzkUo0jj6T\/mhpVB6x+UFQtaS2qE=",
-      "Newtonsoft.Json.dll": "sha256-cs8pHUurDt0IqbB8YXPh560au3q3J\/1wRL9jBddRVmE=",
+      "Newtonsoft.Json.dll": "sha256-gkIipvi93hhq6PE+WvoKU82xCfBcfl2PTHNjD3enxt4=",
       "WebDriver.dll": "sha256-lWFI0Kzds\/0QqsmuOr26m9Y29Q4rrFwkPzT6owcNWKQ=",
       "System.Composition.AttributedModel.dll": "sha256-BNjrFBngU\/t1At2VLzl391sn3t5UGNX4fSHeFq29gxM=",
       "System.Composition.Convention.dll": "sha256-C9JMcpdyFpyZVZDQ+qkv\/UKKnhfEGEXGFMSvulsMeH8=",
@@ -244,11 +244,11 @@
       "mscorlib.dll": "sha256-aRw41w\/QxOqc3NzhbK7UKf1zT6z\/oHtp9BlXl4JWwjM=",
       "netstandard.dll": "sha256-stWPH7tpmfc4JFroiKGKWcPfLQ+ALD6yQUXA9NiV0fQ=",
       "System.Private.CoreLib.dll": "sha256-PbMTdb+kswRpFmuD8S4hY70nkZ9LeYJg7y3wm7hj0CQ=",
-      "Acari.dll": "sha256-ehJwBAWCT3ipAJ27VJi4sFIqWprc91he5O5j9GI8+2U="
+      "Acari.dll": "sha256-nuN6ARmBlxdK5jXk3LeyXuDiP4ol8qpog4xHSfP+0Mk="
     },
     "lazyAssembly": null,
     "pdb": {
-      "Acari.pdb": "sha256-y\/LMpB+HjIqWZQdFB4B4Ez+AFF189pRh+bDl0Icd4L4="
+      "Acari.pdb": "sha256-QV92fN6B2nfzQip7tLKAhkEU0ulqbLOZSUj5DhMmINk="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-SQvzbzBfueaAxSKIKE1khBH02NH2MJJaWDBav\/S5MSs=",

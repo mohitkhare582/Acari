@@ -15,6 +15,7 @@ C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\RazorDecl
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\Acari.RazorComponent.output.cache
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\web.config
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\Acari.StaticWebAssets.xml
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\Acari.dll
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\ref\Acari.dll
@@ -24,6 +25,7 @@ C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\s
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\Acari.dll
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\Acari.pdb
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\HtmlAgilityPack.dll.gz
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\Humanizer.dll.gz
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
@@ -81,6 +83,7 @@ C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll.gz
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.SystemEvents.dll.gz
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
+C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\WebDriver.dll.gz
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\System.Composition.AttributedModel.dll.gz
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\System.Composition.Convention.dll.gz
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\System.Composition.Hosting.dll.gz
@@ -318,6 +321,7 @@ C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.5.js.gz
+C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\HtmlAgilityPack.dll
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\Humanizer.dll
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
@@ -375,6 +379,7 @@ C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.SystemEvents.dll
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll
+C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\WebDriver.dll
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\System.Composition.AttributedModel.dll
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\System.Composition.Convention.dll
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\System.Composition.Hosting.dll
@@ -625,6 +630,7 @@ C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\Razor\Sha
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\XpOEG14J.gz
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\NIcoPBT+.gz
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\wIPp0z9q.gz
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\dwj9VdJw.gz
@@ -643,6 +649,11 @@ C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\dOL3gYC+.gz
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\ZZ49r44G.gz
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\JjkpmJgh.gz
+C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\mCF+EAHq.gz
+C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\YuzJDhYN.gz
+C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\8nz2zIyz.gz
+C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\efldW3az.gz
+C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\wijzaH7P.gz
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\ph4PjM1G.gz
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\hNZ9sZ6m.gz
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\yP7ggKFI.gz
@@ -676,6 +687,7 @@ C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\vmHaRxQb.gz
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\wNrJJV2O.gz
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\98kYYUrg.gz
+C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\nc947QA9.gz
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\9hg+8xg7.gz
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\ZiER1JVK.gz
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\Oclv1fM+.gz
@@ -927,17 +939,5 @@ C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\ref\Acari
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\Acari.pdb
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\serviceworkers\wwwroot\service-worker.js
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\service-worker-assets.js
-C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\web.config
-C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\HtmlAgilityPack.dll.gz
-C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\HtmlAgilityPack.dll
-C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\XpOEG14J.gz
-C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\mCF+EAHq.gz
-C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\YuzJDhYN.gz
-C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\8nz2zIyz.gz
-C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\efldW3az.gz
-C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\wijzaH7P.gz
-C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\qt0iIZAd.gz
-C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\WebDriver.dll.gz
-C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\bin\Debug\net5.0\wwwroot\_framework\WebDriver.dll
-C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\nc947QA9.gz
 C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\Acari.csprojAssemblyReference.cache
+C:\Users\mohit\source\repos\mohitkhare582\Acari\Acari\obj\Debug\net5.0\build-gz\cOnzOaC6.gz
